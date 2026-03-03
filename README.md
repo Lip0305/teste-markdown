@@ -39,3 +39,6 @@ Como já disse uma vez **Satoru Gojo**
 
 
 esse cara é muito bom @lucasbarros8439
+
+parabéns :clap: :clap:
+
