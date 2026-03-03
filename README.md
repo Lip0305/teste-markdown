@@ -38,4 +38,4 @@ Como já disse uma vez **Satoru Gojo**
 >"Ao longo do céu e da terra, eu sozinho sou o honrado."
 
 
-esse cara é muito bom @lucasbarro8439
+esse cara é muito bom @lucasbarros8439
