@@ -21,6 +21,6 @@ __lista__
 - [x] compras
 - [ ] vendas
 
-! [imagem meme] (https://br.pinterest.com/pin/185210603421372645)
+! [imagem meme](https://br.pinterest.com/pin/185210603421372645)
 
-[kratos fofo] (https://psxbrasil.com.br/santa-monica-studio-divulga-gifs-de-memes-de-god-of-war-ragnarok)
+[kratos fofo](https://tenor.com/search/god-of-war-gifs)
