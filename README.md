@@ -79,3 +79,20 @@ parabéns :clap: :clap:
 | 02                | 28/05/2026 | Concluído  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
 | 03                | 18/06/2025 | Concluído  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
 | Feira de Soluções | 25/06/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/Feira_de_solu%C3%A7%C3%B5es)  |
+
+
+
+
+
+
+
+
+|Rank|Propriedade|User Story                                                                                                                                                                                                                                    |Sprint|Requisito do Parceiro |
+|----|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
+|1   |Alta       |Como gestor público, quero acessar os dados do ComexStat de 2024 a 2025 sobre as importações e exportações dos municípios do estado de São Paulo estruturados em um DataFrame.                                                                |1     |RN.P.1 RN.P.6         |
+|2   |Alta       |Como gestor público, quero que os dados sejam tratados no GoogleColab, através da linguagem de programação Python e a biblioteca Pandas, contendo a remoção de valores nulos e a padronização de nomes dos municípios.                                               |1     |RN.P.2 RN.P.6         |
+|3   |Alta       |Como gestor público, quero um dashboard que permita a filtragem por ano, trimestre, municípios, SH4, valor FOB e peso (KG).                                          |1     |RN.P.3 RN.P.5 RN.P.6  |
+|4   |Alta       |Como gestor público, quero que o backlog e as sprints sejam versionadas no GitHub para um melhor acompanhamento do desenvolvimento do projeto.                                                                                                |1     |RN.P.4 RN.P.6         |
+|#   |Urgente       |Como gestor público, quero um dashboard dinâmico no Power BI que tenha dois painéis, um para os dados de importação e outro para exportação.                                                                |1     | Não foi entregue |
+|#   |Urgente       |Como gestor público, quero um mapa interativo relacionando as importações e exportações, um ranking de municípios em gráfico de barras horizontais e um gráfico de rosca com a porcentagem dos produtos mais exportados/importados.                                              |1     | Não foi entregue |
+
